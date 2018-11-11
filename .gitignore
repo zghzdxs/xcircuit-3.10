@@ -25,3 +25,4 @@ spiceparser/*.so
 spiceparser/Makefile
 UPDATE_ME
 VERSION
+autom4te.cache/
