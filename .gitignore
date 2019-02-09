@@ -30,8 +30,10 @@ Xw/*.o
 Xw/*.so
 asg/*.o
 asg/*.so
+asg/*.a
 spiceparser/*.o
 spiceparser/*.so
+spiceparser/*.a
 menudep
 menudep.h
 xcircexec
